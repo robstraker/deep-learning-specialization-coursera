@@ -253,37 +253,37 @@ Programming Languages
 ## Programming Assignments
 
 Course 1
-* Programming Assignment 1 - Building your Deep Neural Network: Step by Step[1]
-* Programming Assignment 2 - Deep Neural Network for Image Classification: Application[2]
-* Programming Assignment 3 - Python Basics with Numpy (optional assignment)[3]
-* Programming Assignment 4 - Logistic Regression with a Neural Network Mindset[4]
-* Programming Assignment 5 - Planar data classification with one hidden layer[5]
+* Programming Assignment 1 - [Building your Deep Neural Network: Step by Step][1]
+* Programming Assignment 2 - [Deep Neural Network for Image Classification: Application][2]
+* Programming Assignment 3 - [Python Basics with Numpy (optional assignment)][3]
+* Programming Assignment 4 - [Logistic Regression with a Neural Network Mindset][4]
+* Programming Assignment 5 - [Planar data classification with one hidden layer][5]
 
 Course 2
-* Programming Assignment 1 - Initialization[6]
-* Programming Assignment 2 - Regularization[7]
-* Programming Assignment 3 - Gradient Checking[8]
-* Programming Assignment 4 - Optimization Methods[9]
-* Programming Assignment 5 - TensorFlow Tutorial[10]
+* Programming Assignment 1 - [Initialization][6]
+* Programming Assignment 2 - [Regularization][7]
+* Programming Assignment 3 - [Gradient Checking][8]
+* Programming Assignment 4 - [Optimization Methods][9]
+* Programming Assignment 5 - [TensorFlow Tutorial][10]
 
 Course 3
 * None
 
 Course 4
-* Programming Assignment 1 - Convolution Model: Step by Step[11]
-* Programming Assignment 2 - Convolution Model: Application[12]
-* Programming Assignment 3 - Keras Tutorial: Happy House[12]
-* Programming Assignment 4 - Residual Networks[13]
-* Programming Assignment 5 - Autonomous Driving Application: Car Detection[14]
+* Programming Assignment 1 - [Convolution Model: Step by Step][11]
+* Programming Assignment 2 - [Convolution Model: Application][12]
+* Programming Assignment 3 - [Keras Tutorial: Happy House][12]
+* Programming Assignment 4 - [Residual Networks][13]
+* Programming Assignment 5 - [Autonomous Driving Application: Car Detection][14]
 
 Course 5
-* Programming Assignment 1 - Building a Recurrent Neural Network: Step by Step[15]
-* Programming Assignment 2 - Dinosaurus Island: Character Language Model[16]
-* Programming Assignment 3 - Improvise a Jazz Solo with LSTM Network[17]
-* Programming Assignment 4 - Operations on Word Vectors[18]
-* Programming Assignment 5 - Emojify[19]
-* Programming Assignment 6 - Neural Machine Translation with Attention[20]
-* Programming Assignment 7 - Trigger Word Detection[21]
+* Programming Assignment 1 - [Building a Recurrent Neural Network: Step by Step][15]
+* Programming Assignment 2 - [Dinosaurus Island: Character Language Model][16]
+* Programming Assignment 3 - [Improvise a Jazz Solo with LSTM Network][17]
+* Programming Assignment 4 - [Operations on Word Vectors][18]
+* Programming Assignment 5 - [Emojify][19]
+* Programming Assignment 6 - [Neural Machine Translation with Attention][20]
+* Programming Assignment 7 - [Trigger Word Detection][21]
 
 
 [//]: # (Links Section)
