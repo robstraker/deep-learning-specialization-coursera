@@ -210,7 +210,6 @@ Speech Recognition - Audio Data
 * Connectionist Temporal Classification (CTC) Cost
 * Trigger Word Detection
 
-
 ## Technologies
 
 Tools and Libraries
@@ -218,34 +217,12 @@ Tools and Libraries
 * matplotlib (2D Plotting Library)
 * SciPy (Scientific Library)
 * PIL (Image Processing Library)
-* -pandas (Data Analysis Library)
-* -Anaconda (Distribution)
 * Jupyter Notebooks (Web Application)
+* IPython (Command Shell)
 
 AI Frameworks and Libraries
-* -scikit-learn (Machine Learning Library)
-* -OpenCV (Computer Vision Library)
 * TensorFlow (Machine Learning Library)
 * Keras (Neural Network Library)
-
-AI Services
-* -AWS EC2 (IaaS)
-* -Affectiva Emotion AI (SDK)
-* -IBM Watson NLP Services (PaaS)
-* -Amazon Alexa Skills Kit (SDK)
-
-Deep Neural Network Models
-* -VGG-16
-* -ResNet-50
-* -VGG-19
-* -Inception
-* -Xception
-
-Databases
-* -MNIST
-* -cifar10
-* -notMNIST
-* -ImageNET
 
 Programming Languages
 * Python
@@ -288,7 +265,7 @@ Course 5
 
 [//]: # (Links Section)
 [1]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb
-[2]:]https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Deep+Neural+Network+-+Application+v8.ipynb
+[2]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Deep+Neural+Network+-+Application+v8.ipynb
 [3]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Python+Basics+With+Numpy+v3.ipynb
 [4]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb
 [5]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Planar+data+classification+with+one+hidden+layer+v5.ipynb
