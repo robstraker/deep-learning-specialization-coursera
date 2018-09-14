@@ -1,7 +1,7 @@
 # Coursera Deep Learning Specialization
 (May to July 2018)
 
-## Course 1 Topics (Neural Networks and Deep Learning):
+## Topics for Course 1: Neural Networks and Deep Learning
 
 Introduction to Deep Learning
 * Neural Networks
@@ -31,7 +31,7 @@ Deep Neural Network
 * Forward Propagation in a Deep Network
 * Parameters vs. Hyperparameters
 
-## Course 2 Topics (Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization):
+## Topics for Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 Setting up your Machine Learning Application
 * Train, Dev, and Test Sets
@@ -78,7 +78,7 @@ Introduction to Programming Frameworks
 * Criteria for Choosing Deep Learning Frameworks
 * TensorFlow
 
-## Course 3 Topics (Structured Machine Learning Projects):
+## Topics for Course 3: Structured Machine Learning Projects
 
 Introduction to Machine Learning Strategy
 * Orthogonalization
@@ -115,7 +115,7 @@ End-to-End Deep Learning
 * End-to-End Deep Learning
 * When to Use End-to-End Deep Learning
 
-## Course 4 Topics (Convolutional Neural Networks):
+## Topics for Course 4: Convolutional Neural Networks
 
 Foundations of Convolutional Neural Networks
 * Computer Vision
@@ -169,7 +169,7 @@ Special Applications: Neural Style Transfer
 * Style Cost Function
 * Neural Style Transfer
 
-## Course 5 Topics (Sequence Models):
+## Topics for Course 5: Sequence Models
 
 Recurrent Neural Networks
 * RNN Notation
