@@ -33,7 +33,7 @@ Deep Neural Network
 
 ## Course 2 Topics (Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization):
 
-Seeting up your Machine Learning Application
+Setting up your Machine Learning Application
 * Train, Dev, and Test Sets
 * Mismatched Train and Test Set Distribution
 * Bias and Variance
@@ -46,12 +46,176 @@ Regularizing your Neural Network
 * Early Stopping
 
 Setting up your Optimization Problem
+* Normalizing Inputs
+* Vanishing and Exploding Gradients
+* Weight Initialization
+* Gradient Checking
+* Bias Correction
+* Gradient Descent with Momentum
+* RMSprop
+* Adam Optimization
+* Learning Rate Decay
+* Local Optima
+* Stochastic Gradient Descent
+
+Optimization Algorithms
+* Mini-Batch Gradient Descent
+* Exponenitally Weighted Averages
+
+Hyperparameter Tuning
+* Ranked Importance
+* Random Values vs Grid
+* Choosing Appropriate Scale
+
+Batch Normalization
+* Implementing Batch Normalization
+* Why Batch Norm Works
+
+Multi-Class Classification
+* Softmax Regression
+
+Introduction to Programming Frameworks
+* Criteria for Choosing Deep Learning Frameworks
+* TensorFlow
+
+## Course 3 Topics (Structured Machine Learning Projects):
+
+Introduction to Machine Learning Strategy
+* Orthogonalization
+
+Setting Up Your Goal
+* Single Number Evaluation Metric
+* Satisficing and Optimizing Metric
+* Train, Dev, and Test Distributions
+* Size of Dev and Test Sets
+* When to Change Dev/Test Sets and Metrics
+
+Comparing to Human-Level Performance
+* Avoidable Bias
+* Surpassing Human-Level Performance
+* Improving Model Performance
+
+Error Analysis
+* Carrying Out Error Analysis
+* Cleaning Up Incorrectly Labeled Data
+
+Mismatched Training and Dev/Test Set
+* Training and Testing on Different Distributions
+* Bias and Variance with Mismatched Data Distributions
+* Addresssing Data Mismatch
+* Artifical Data Synthesis
+
+Learning from Multiple Tasks
+* Transfer Learning
+* Pre-Training
+* Fine-Tuning
+* Multi-task Learning
+
+End-to-End Deep Learning
+* End-to-End Deep Learning
+* When to Use End-to-End Deep Learning
+
+## Course 4 Topics (Convolutional Neural Networks):
+
+Foundations of Convolutional Neural Networks
+* Computer Vision
+* Image Classification
+* Object Detection
+* Neural Style Transfer
+* Edge Detection
+* Padding
+* Strides Convolutions
+* Pooling Layers
+* Max Pooling
+* Average Pooling
+
+Case Studies
+* Classical Networks
+* LeNet-5
+* AlexNet
+* VGG-16
+* ResNets
+* Inception Network
+
+Practical Advice for Using ConvNets
+* Open-Source Implementation
+* Transfer Learning
+* Data Augmentation
+* Doing Well on Benchmarks / Winning Competitions
+* Ensembling
+* Multi-Crop at Test Time
+
+Object Detection
+* Object Localization
+* Landmark Detection
+* Object Detection
+* Sliding Windows Detection Algorith* m
+* Bounding Box Predictions
+* You Only Look Once Algorithm (YOLO)
+* Intersection Over Union
+* Non-Max Suppression
+
+Special Applications: Face Recognition
+* Face Verification
+* Face Recognition
+* One Shot Learning
+* Siamese Network
+* Triplet Loss
+* Binary Classifiction
+
+Special Applications: Neural Style Transfer
+* Visualizing Deep Layers
+* Content Cost Function
+* Style Cost Function
+* Neural Style Transfer
+
+## Course 5 Topics (Sequence Models):
+
+Recurrent Neural Networks
+* RNN Notation
+* Representing Words
+* Types of RNNs
+* Language Model and Sequence Generation
+* Vanishing Gradients with RNNs
+* Gated Recurrent Unit (GRU)
+* Long Short-Term Memory (LSTM)
+* Bidirectional RNN (BRNN)
+
+Introduction to Word Embeddings
+* Word Representation
+* Featurized Representation
+* Transfer Learning
+* t-SME
+* Cosine Similarity
+* Embedding Matrix
+
+Word2Vec and GloVE
+* Word2Vec Skipgram Model
+* Negative Sampling
+* GloVE Word Vectors
+
+Applications using Word Embeddings
+* Sentiment Classification
+* Debiasing Word Embeddings
+
+Various Sequence to Sequence Architectures
+* Image to Caption Model
+* Conditional Language Model
+* Beam Search
+* Length Normalization
+* Blue Score
+* Attention Model
+
+Speech Recognition - Audio Data
+* Connectionist Temporal Classification (CTC) Cost
+* Trigger Word Detection
+
 
 ## Technologies
 
 Tools and Libraries
 * NumPy (Scientific Library)
-* -matplotlib (2D Plotting Library)
+* matplotlib (2D Plotting Library)
 * -pandas (Data Analysis Library)
 * -Anaconda (Distribution)
 * Jupyter Notebooks (Web Application)
@@ -59,8 +223,8 @@ Tools and Libraries
 AI Frameworks and Libraries
 * -scikit-learn (Machine Learning Library)
 * -OpenCV (Computer Vision Library)
-* -TensorFlow (Machine Learning Library)
-* -Keras (Neural Network Library)
+* TensorFlow (Machine Learning Library)
+* Keras (Neural Network Library)
 
 AI Services
 * -AWS EC2 (IaaS)
@@ -85,5 +249,12 @@ Programming Languages
 * Python
 
 
-Term 1 Projects and Labs
-* Project 1 - Diagonal Sodoku Solver
+Course 1 Assignments
+* Assignment 1 - Building your Deep Neural Network: Step by Step
+* Assignment 2 - Deep Neural Network for Image Classification: Application
+* Assignment 3 - Logistic Regression with a Neural Network mindset
+* Assignment 4 - Planar data classification with one hidden layer
+* Assignment 5 - Python Basics with Numpy (optional assignment)
+
+Course 2 Assignments
+* Assignment 1 - TBD
