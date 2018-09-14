@@ -216,6 +216,8 @@ Speech Recognition - Audio Data
 Tools and Libraries
 * NumPy (Scientific Library)
 * matplotlib (2D Plotting Library)
+* SciPy (Scientific Library)
+* PIL (Image Processing Library)
 * -pandas (Data Analysis Library)
 * -Anaconda (Distribution)
 * Jupyter Notebooks (Web Application)
@@ -252,9 +254,32 @@ Programming Languages
 Course 1 Assignments
 * Assignment 1 - Building your Deep Neural Network: Step by Step
 * Assignment 2 - Deep Neural Network for Image Classification: Application
-* Assignment 3 - Logistic Regression with a Neural Network mindset
-* Assignment 4 - Planar data classification with one hidden layer
-* Assignment 5 - Python Basics with Numpy (optional assignment)
+* Assignment 3 - Python Basics with Numpy (optional assignment)
+* Assignment 4 - Logistic Regression with a Neural Network Mindset
+* Assignment 5 - Planar data classification with one hidden layer
 
 Course 2 Assignments
-* Assignment 1 - TBD
+* Assignment 6 - Initialization
+* Assignment 7 - Regularization
+* Assignment 8 - Gradient Checking
+* Assignment 9 - Optimization Methods
+* Assignment 10 - TensorFlow Tutorial
+
+Course 3 Assignments
+* None
+
+Course 4 Assignments
+* Assignment 11 - Convolution Model: Application
+* Assignment 12 - Convolution Model: Step by Step
+* Assignment 13 - Residual Networks
+* Assignment 14 - Autonomous Driving Application: Detection
+
+Course 5 Assignments
+* Assignment 15 - Trigger Word Detection
+* Assignment 16 - Neural Machine Translation with Attention
+* Assignment 17 - Emojify
+* Assignment 18 - Improvising a Jazz Solo with LSTM Network
+* Assignment 19 - Dinosaurus Island: Character Language Model
+* Assignment 20 - Building a Recurrent Neural Network Model: Step by Step
+
+
