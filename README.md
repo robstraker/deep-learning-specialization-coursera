@@ -250,36 +250,64 @@ Databases
 Programming Languages
 * Python
 
+## Programming Assignments
 
-Course 1 Assignments
-* Assignment 1 - Building your Deep Neural Network: Step by Step
-* Assignment 2 - Deep Neural Network for Image Classification: Application
-* Assignment 3 - Python Basics with Numpy (optional assignment)
-* Assignment 4 - Logistic Regression with a Neural Network Mindset
-* Assignment 5 - Planar data classification with one hidden layer
+Course 1
+* Programming Assignment 1 - Building your Deep Neural Network: Step by Step[1]
+* Programming Assignment 2 - Deep Neural Network for Image Classification: Application[2]
+* Programming Assignment 3 - Python Basics with Numpy (optional assignment)[3]
+* Programming Assignment 4 - Logistic Regression with a Neural Network Mindset[4]
+* Programming Assignment 5 - Planar data classification with one hidden layer[5]
 
-Course 2 Assignments
-* Assignment 6 - Initialization
-* Assignment 7 - Regularization
-* Assignment 8 - Gradient Checking
-* Assignment 9 - Optimization Methods
-* Assignment 10 - TensorFlow Tutorial
+Course 2
+* Programming Assignment 1 - Initialization[6]
+* Programming Assignment 2 - Regularization[7]
+* Programming Assignment 3 - Gradient Checking[8]
+* Programming Assignment 4 - Optimization Methods[9]
+* Programming Assignment 5 - TensorFlow Tutorial[10]
 
-Course 3 Assignments
+Course 3
 * None
 
-Course 4 Assignments
-* Assignment 11 - Convolution Model: Application
-* Assignment 12 - Convolution Model: Step by Step
-* Assignment 13 - Residual Networks
-* Assignment 14 - Autonomous Driving Application: Detection
+Course 4
+* Programming Assignment 1 - Convolution Model: Step by Step[11]
+* Programming Assignment 2 - Convolution Model: Application[12]
+* Programming Assignment 3 - Keras Tutorial: Happy House[12]
+* Programming Assignment 4 - Residual Networks[13]
+* Programming Assignment 5 - Autonomous Driving Application: Car Detection[14]
 
-Course 5 Assignments
-* Assignment 15 - Trigger Word Detection
-* Assignment 16 - Neural Machine Translation with Attention
-* Assignment 17 - Emojify
-* Assignment 18 - Improvising a Jazz Solo with LSTM Network
-* Assignment 19 - Dinosaurus Island: Character Language Model
-* Assignment 20 - Building a Recurrent Neural Network Model: Step by Step
+Course 5
+* Programming Assignment 1 - Building a Recurrent Neural Network: Step by Step[15]
+* Programming Assignment 2 - Dinosaurus Island: Character Language Model[16]
+* Programming Assignment 3 - Improvise a Jazz Solo with LSTM Network[17]
+* Programming Assignment 4 - Operations on Word Vectors[18]
+* Programming Assignment 5 - Emojify[19]
+* Programming Assignment 6 - Neural Machine Translation with Attention[20]
+* Programming Assignment 7 - Trigger Word Detection[21]
+
+
+[//]: # (Links Section)
+[1]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb
+[2]:]https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Deep+Neural+Network+-+Application+v8.ipynb
+[3]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Python+Basics+With+Numpy+v3.ipynb
+[4]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb
+[5]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/Planar+data+classification+with+one+hidden+layer+v5.ipynb
+[6]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/Initialization.ipynb
+[7]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/Regularization+-+v2.ipynb
+[8]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/Gradient+Checking+v1.ipynb
+[9]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/Optimization+methods.ipynb
+[10]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/Tensorflow+Tutorial.ipynb
+[11]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/Convolution+model+-+Step+by+Step+-+v2.ipynb
+[12]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/Convolution+model+-+Application+-+v1.ipynb
+[13]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/Keras+-+Tutorial+-+Happy+House+v2.ipynb
+[14]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/Residual+Networks+-+v2.ipynb
+[15]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/Autonomous+driving+application+-+Car+detection+-+v3.ipynb
+[16]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Building+a+Recurrent+Neural+Network+-+Step+by+Step+-+v3.ipynb
+[17]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Dinosaurus+Island+--+Character+level+language+model+final+-+v3.ipynb
+[18]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Improvise+a+Jazz+Solo+with+an+LSTM+Network+-+v3.ipynb
+[19]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Operations+on+word+vectors+-+v2.ipynb
+[20]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Emojify+-+v2.ipynb
+[21]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Neural+machine+translation+with+attention+-+v4.ipynb
+[22]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Trigger+word+detection+-+v1.ipynb
 
 
