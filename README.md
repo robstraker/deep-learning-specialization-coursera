@@ -12,13 +12,9 @@ This repo contains programming assignments and quizzes for the five-course Deep 
 #### About this Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice.
 
-You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice.
-
-AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
-
-We will help you master Deep Learning, understand how to apply it, and build a career in AI.
+AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work. We will help you master Deep Learning, understand how to apply it, and build a career in AI.
 
 #### Applied Learning Project
 
@@ -43,6 +39,46 @@ Computer Vision, Image Classification, ResNets, Data Augmentation, Object Detect
 Recurrent Neural Networks, Word Embeddings, Word2Vec and GloVE, Sentiment Classification, Sequence to Sequence Architectures, Speech Recognition
 
 For further information on topics and technologies covered, see [TOPICS.md](deep-learning-specialization-coursera/TOPICS.md).
+
+## Syllabus
+
+### Course 1: Neural Networks and Deep Learning
+**Week 1: Introduction to deep learning.** Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.  
+
+**Week 2: Neural Networks Basics.** Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.  
+
+**Week 3: Shallow neural networks.** Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
+
+**Week 4: Deep Neural Networks.** Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+**Week 1: Practical aspects of Deep Learning.**
+
+**Week 2: Optimization algorithms.**
+
+**Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks.**
+
+### Course 3: 
+**Week 1: ML Strategy (1).**
+
+**Week 2: ML Strategy (2).**
+
+### Course 4: 
+**Week 1: Foundations of Convolutional Neural Networks.** Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+
+**Week 2: Deep convolutional models: case studies.** Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+
+**Week 3: Object detection.** Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+
+**Week 4: Special applications: Face recognition & Neural style transfer.** Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+
+### Course 5: Sequence Models
+**Week 1: Recurrent Neural Networks.** Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+
+**Week 2: Natural Language Processing & Word Embeddings.** Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+
+**Week 3: Sequence models & Attention mechanism.** Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
+
 
 ## Programming Assignments
 
