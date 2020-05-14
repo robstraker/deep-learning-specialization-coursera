@@ -43,77 +43,97 @@ For further information on topics and technologies covered, see [TOPICS.md](deep
 ## Syllabus
 
 ### Course 1: Neural Networks and Deep Learning
-**Week 1: Introduction to deep learning.** Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.  
+**Week 1: Introduction to deep learning.** 
+- Objective: Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.  
+- Quiz
 
-**Week 2: Neural Networks Basics.** Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.  
+**Week 2: Neural Networks Basics.** 
+- Objective: Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.  
+- Quiz
+- Programming Assignment - [Python Basics with Numpy (optional assignment)][3]
+- Programming Assignment - [Logistic Regression with a Neural Network Mindset][4]
 
-**Week 3: Shallow neural networks.** Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
+**Week 3: Shallow neural networks.** 
+- Objective: Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
+- Quiz
+- Programming Assignment - [Planar data classification with one hidden layer][5]
 
-**Week 4: Deep Neural Networks.** Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+**Week 4: Deep Neural Networks.** 
+- Objective: Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+- Quiz
+- Programming Assignment - [Building your Deep Neural Network: Step by Step][1]
+- Programming Assignment - [Deep Neural Network for Image Classification: Application][2]
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 **Week 1: Practical aspects of Deep Learning.**
+- Objective: Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, gradient checking. Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance.
+- Quiz
+- Programming Assignment - [Initialization][6]
+- Programming Assignment - [Regularization][7]
+- Programming Assignment - [Gradient Checking][8]
 
 **Week 2: Optimization algorithms.**
+- Objective: Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.
+- Quiz
+- Programming Assignment - [Optimization Methods][9]
 
 **Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks.**
+- Objectives: Understand industry best-practices for building deep learning applications. Understand Batch normalization. Be able to implement a neural network in TensorFlow.
+- Quiz
+- Programming Assignment - [TensorFlow Tutorial][10]
 
 ### Course 3: 
 **Week 1: ML Strategy (1).**
+- Objectives: Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance.
+- Quiz
+- No programming assignment
 
 **Week 2: ML Strategy (2).**
+- Objectives: Understand how to diagnose errors in a machine learning system. Be able to prioritize the most promising directions for reducing error. Know how to apply end-to-end learning, transfer learning, and multi-task learning.
+- Quiz
+- No programming assignment
 
 ### Course 4: 
-**Week 1: Foundations of Convolutional Neural Networks.** Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+**Week 1: Foundations of Convolutional Neural Networks.** 
+- Objective: Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+- Quiz
+- Programming Assignment - [Convolution Model: Step by Step][11]
+- Programming Assignment - [Convolution Model: Application][12]
 
-**Week 2: Deep convolutional models: case studies.** Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+**Week 2: Deep convolutional models: case studies.** 
+- Objective: Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+- Quiz
+- Programming Assignment - [Keras Tutorial: Happy House][12]
+- Programming Assignment - [Residual Networks][13]
 
-**Week 3: Object detection.** Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+**Week 3: Object detection.** 
+- Objective: Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+- Quiz 
+- Programming Assignment - [Autonomous Driving Application: Car Detection][14]
 
-**Week 4: Special applications: Face recognition & Neural style transfer.** Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+**Week 4: Special applications: Face recognition & Neural style transfer.** 
+- Objective: Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+- Quiz
 
 ### Course 5: Sequence Models
-**Week 1: Recurrent Neural Networks.** Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+**Week 1: Recurrent Neural Networks.** 
+- Objective: Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+- Quiz
+- Programming Assignment - [Building a Recurrent Neural Network: Step by Step][15]
+- Programming Assignment - [Dinosaurus Island: Character Language Model][16]
 
-**Week 2: Natural Language Processing & Word Embeddings.** Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+**Week 2: Natural Language Processing & Word Embeddings.** 
+- Objective: Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+- Quiz
+- Programming Assignment - [Improvise a Jazz Solo with LSTM Network][17]
+- Programming Assignment - [Emojify][19]
 
-**Week 3: Sequence models & Attention mechanism.** Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
-
-
-## Programming Assignments
-
-Course 1
-* Programming Assignment 1 - [Building your Deep Neural Network: Step by Step][1]
-* Programming Assignment 2 - [Deep Neural Network for Image Classification: Application][2]
-* Programming Assignment 3 - [Python Basics with Numpy (optional assignment)][3]
-* Programming Assignment 4 - [Logistic Regression with a Neural Network Mindset][4]
-* Programming Assignment 5 - [Planar data classification with one hidden layer][5]
-
-Course 2
-* Programming Assignment 1 - [Initialization][6]
-* Programming Assignment 2 - [Regularization][7]
-* Programming Assignment 3 - [Gradient Checking][8]
-* Programming Assignment 4 - [Optimization Methods][9]
-* Programming Assignment 5 - [TensorFlow Tutorial][10]
-
-Course 3
-* None
-
-Course 4
-* Programming Assignment 1 - [Convolution Model: Step by Step][11]
-* Programming Assignment 2 - [Convolution Model: Application][12]
-* Programming Assignment 3 - [Keras Tutorial: Happy House][12]
-* Programming Assignment 4 - [Residual Networks][13]
-* Programming Assignment 5 - [Autonomous Driving Application: Car Detection][14]
-
-Course 5
-* Programming Assignment 1 - [Building a Recurrent Neural Network: Step by Step][15]
-* Programming Assignment 2 - [Dinosaurus Island: Character Language Model][16]
-* Programming Assignment 3 - [Improvise a Jazz Solo with LSTM Network][17]
-* Programming Assignment 4 - [Operations on Word Vectors][18]
-* Programming Assignment 5 - [Emojify][19]
-* Programming Assignment 6 - [Neural Machine Translation with Attention][20]
-* Programming Assignment 7 - [Trigger Word Detection][21]
+**Week 3: Sequence models & Attention mechanism.** 
+- Objective: Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
+- Quiz
+- Programming Assignment - [Operations on Word Vectors][18]
+- Programming Assignment - [Neural Machine Translation with Attention][20]
+- Programming Assignment - [Trigger Word Detection][21]
 
 ## Milestones
 - 2018-07-18: Completed 5-course specialization.
