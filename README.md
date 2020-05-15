@@ -136,7 +136,7 @@ For further information on topics and technologies covered, see [TOPICS.md][3].
 - Programming Assignment - [Trigger Word Detection][25]
 
 ## License
-This project is licensed under the MIT License. See [LICENSE.md][26] for details.
+This project is licensed under the MIT License. See [LICENSE][26] for details.
 
 ## Milestones
 - 2018-07-18: Completed 5-course specialization.
@@ -167,6 +167,6 @@ This project is licensed under the MIT License. See [LICENSE.md][26] for details
 [23]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Operations+on+word+vectors+-+v2.ipynb
 [24]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Neural+machine+translation+with+attention+-+v4.ipynb
 [25]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Trigger+word+detection+-+v1.ipynb
-[26]:https://github.com/rstraker/deep-learning-specialization-coursera/LICENSE.md
+[26]:https://github.com/rstraker/deep-learning-specialization-coursera/LICENSE
 
 
