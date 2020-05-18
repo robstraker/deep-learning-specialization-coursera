@@ -45,22 +45,22 @@ For further information on topics and technologies covered, see [TOPICS.md][3].
 ### Course 1: Neural Networks and Deep Learning
 **Week 1: Introduction to deep learning.** 
 - Objective: Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.  
-- Quiz
+- Quiz - [Introduction to Deep Learning][27]
 
 **Week 2: Neural Networks Basics.** 
 - Objective: Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.  
-- Quiz
+- Quiz - [Neural Network Basics][28]
 - Programming Assignment - [Python Basics with Numpy (optional assignment)][4]
 - Programming Assignment - [Logistic Regression with a Neural Network Mindset][5]
 
 **Week 3: Shallow neural networks.** 
 - Objective: Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
-- Quiz
+- Quiz - [Shallow Neural Networks][29]
 - Programming Assignment - [Planar data classification with one hidden layer][6]
 
 **Week 4: Deep Neural Networks.** 
 - Objective: Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
-- Quiz
+- Quiz - [Key Concepts on Deep Neural Networks][30]
 - Programming Assignment - [Building your Deep Neural Network: Step by Step][7]
 - Programming Assignment - [Deep Neural Network for Image Classification: Application][8]
 
@@ -169,4 +169,8 @@ This project is licensed under the MIT License. See [LICENSE][26] for details.
 [25]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/Trigger+word+detection+-+v1.ipynb
 [26]:https://github.com/rstraker/deep-learning-specialization-coursera/LICENSE
 
+[27]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week1-quiz.md
+[28]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course2-week1-quiz.md
+[29]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course3-week1-quiz.md
+[30]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course4-week1-quiz.md
 
