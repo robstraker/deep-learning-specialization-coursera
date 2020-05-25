@@ -67,19 +67,19 @@ For further information on topics and technologies covered, see [TOPICS.md][3].
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 **Week 1: Practical aspects of Deep Learning.**
 - Objective: Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, gradient checking. Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance.
-- Quiz
+- Quiz - [Practical Aspects of Deep Learning][31]
 - Programming Assignment - [Initialization][9]
 - Programming Assignment - [Regularization][10]
 - Programming Assignment - [Gradient Checking][11]
 
 **Week 2: Optimization algorithms.**
 - Objective: Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.
-- Quiz
+- Quiz - [Optimization Algorithms][32]
 - Programming Assignment - [Optimization Methods][12]
 
 **Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks.**
 - Objectives: Understand industry best-practices for building deep learning applications. Understand Batch normalization. Be able to implement a neural network in TensorFlow.
-- Quiz
+- Quiz - [Hyperparameter Tuning, Batch Normalization, Programming Frameworks][33]
 - Programming Assignment - [TensorFlow Tutorial][13]
 
 ### Course 3: 
@@ -170,7 +170,10 @@ This project is licensed under the MIT License. See [LICENSE][26] for details.
 [26]:https://github.com/rstraker/deep-learning-specialization-coursera/LICENSE
 
 [27]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week1-quiz.md
-[28]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course2-week1-quiz.md
-[29]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course3-week1-quiz.md
-[30]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course4-week1-quiz.md
+[28]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week2-quiz.md
+[29]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week3-quiz.md
+[30]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week4-quiz.md
 
+[31]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week1-quiz.md
+[32]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week2-quiz.md
+[33]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week3-quiz.md
