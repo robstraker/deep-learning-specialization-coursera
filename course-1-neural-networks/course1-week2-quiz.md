@@ -3,18 +3,18 @@
 1. What does a neuron compute?
 
     - [ ] A neuron computes an activation function followed by a linear function (z = Wx + b)
-
     - [x] A neuron computes a linear function (z = Wx + b) followed by an activation function
-        - We generally say that the output of a neuron is a = g(Wx + b) where g is the activation function (sigmoid, tanh, ReLU, ...).
+    
+    > We generally say that the output of a neuron is a = g(Wx + b) where g is the activation function (sigmoid, tanh, ReLU, ...).
 
     - [ ] A neuron computes a function g that scales the input x linearly (Wx + b)
-
     - [ ] A neuron computes the mean of all features before applying the output to an activation function
 
 2. Which of these is the "Logistic Loss"?
 
     - Refer to [this reference](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression).
-        - This is the logistic loss you've seen in lecture!
+    
+    > This is the logistic loss you've seen in lecture!
     
 3. Suppose img is a (32,32,3) array, representing a 32x32 image with 3 color channels red, green and blue. How do you reshape this into a column vector?
 
@@ -30,8 +30,7 @@
     
     What will be the shape of "c"?
     
-    - [x] (column vector) is copied 3 times so that it can be summed to each column of a. Therefore, `c.shape = (2, 3)`.
-    
+    - [x] (column vector) is copied 3 times so that it can be summed to each column of a. Therefore, `c.shape = (2, 3)`. 
     
 5. Consider the two following random arrays "a" and "b":
 
@@ -45,9 +44,9 @@
     
     - [x] "*" operator indicates element-wise multiplication. Element-wise multiplication requires same dimension between two matrices. It's going to be an error.
 
-6. Suppose you have n_x input features per example. Recall that X=[x^(1), x^(2)...x^(m)]. What is the dimension of X?
+6. Suppose you have n<sub>x</sub> input features per example. Recall that X=[x<sup>(1)</sup>, x<sup>(2)</sup>...x<sup>(m)</sup>]. What is the dimension of X?
 
-    - [x] `(n_x, m)`
+    - [x] (n<sub>x</sub>, m)
     
 7. Recall that `np.dot(a,b)` performs a matrix multiplication on a and b, whereas `a*b` performs an element-wise multiplication.
 

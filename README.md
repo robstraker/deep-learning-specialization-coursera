@@ -85,52 +85,52 @@ For further information on topics and technologies covered, see [TOPICS.md][3].
 ### Course 3: 
 **Week 1: ML Strategy (1).**
 - Objectives: Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance.
-- Quiz
+- Quiz - [Bird Recognition in the City of Peacetopia (Case Study)][34]
 - No programming assignment
 
 **Week 2: ML Strategy (2).**
 - Objectives: Understand how to diagnose errors in a machine learning system. Be able to prioritize the most promising directions for reducing error. Know how to apply end-to-end learning, transfer learning, and multi-task learning.
-- Quiz
+- Quiz - [Autonomous Driving (Case Study)][35]
 - No programming assignment
 
 ### Course 4: 
 **Week 1: Foundations of Convolutional Neural Networks.** 
 - Objective: Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
-- Quiz
+- Quiz - [The Basics of ConvNets][36]
 - Programming Assignment - [Convolution Model: Step by Step][14]
 - Programming Assignment - [Convolution Model: Application][15]
 
 **Week 2: Deep convolutional models: case studies.** 
 - Objective: Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
-- Quiz
+- Quiz - [Deep Convolutional Models][37]
 - Programming Assignment - [Keras Tutorial: Happy House][16]
 - Programming Assignment - [Residual Networks][17]
 
 **Week 3: Object detection.** 
 - Objective: Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
-- Quiz 
+- Quiz - [Detection Algorithms][38]
 - Programming Assignment - [Autonomous Driving Application: Car Detection][18]
 
 **Week 4: Special applications: Face recognition & Neural style transfer.** 
 - Objective: Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
-- Quiz
+- Quiz - [Special Applications: Face Recognition & Neural Style Transfer][39]
 
 ### Course 5: Sequence Models
 **Week 1: Recurrent Neural Networks.** 
 - Objective: Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
-- Quiz
+- Quiz - [Recurrent Neural Networks][40]
 - Programming Assignment - [Building a Recurrent Neural Network: Step by Step][19]
 - Programming Assignment - [Dinosaurus Island: Character Language Model][20]
 
 **Week 2: Natural Language Processing & Word Embeddings.** 
 - Objective: Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
-- Quiz
+- Quiz - [Natural Language Processing & Word Embeddings][41]
 - Programming Assignment - [Improvise a Jazz Solo with LSTM Network][21]
 - Programming Assignment - [Emojify][22]
 
 **Week 3: Sequence models & Attention mechanism.** 
 - Objective: Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
-- Quiz
+- Quiz - [Sequence Models & Attention Mechanism][42]
 - Programming Assignment - [Operations on Word Vectors][23]
 - Programming Assignment - [Neural Machine Translation with Attention][24]
 - Programming Assignment - [Trigger Word Detection][25]
@@ -173,7 +173,15 @@ This project is licensed under the MIT License. See [LICENSE][26] for details.
 [28]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week2-quiz.md
 [29]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week3-quiz.md
 [30]:https://github.com/rstraker/deep-learning-specialization-coursera/course-1-neural-networks/course1-week4-quiz.md
-
 [31]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week1-quiz.md
 [32]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week2-quiz.md
 [33]:https://github.com/rstraker/deep-learning-specialization-coursera/course-2-improving-deep-neural-networks/course2-week3-quiz.md
+[34]:https://github.com/rstraker/deep-learning-specialization-coursera/course-3-structuring-machine-learning-projects/course3-week1-quiz.md
+[35]:https://github.com/rstraker/deep-learning-specialization-coursera/course-3-structuring-machine-learning-projects/course3-week2-quiz.md
+[36]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/course4-week1-quiz.md
+[37]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/course4-week2-quiz.md
+[38]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/course4-week3-quiz.md
+[39]:https://github.com/rstraker/deep-learning-specialization-coursera/course-4-convolutional-networks/course4-week4-quiz.md
+[40]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/course5-week1-quiz.md
+[41]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/course5-week2-quiz.md
+[42]:https://github.com/rstraker/deep-learning-specialization-coursera/course-5-sequence-models/course5-week3-quiz.md
