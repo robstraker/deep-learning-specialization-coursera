@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See [LICENSE][26] for details.
 [//]: # (Links Section)
 [1]:https://www.coursera.org/instructor/andrewng
 [2]:https://www.deeplearning.ai
-[3]:https://github.com/robstraker/deep-learning-specialization-coursera/blob/TOPICS.md
+[3]:https://github.com/robstraker/deep-learning-specialization-coursera/blob/master/TOPICS.md
 [4]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-1-neural-networks/Python+Basics+With+Numpy+v3.ipynb
 [5]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-1-neural-networks/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb
 [6]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-1-neural-networks/Planar+data+classification+with+one+hidden+layer+v5.ipynb
@@ -167,7 +167,7 @@ This project is licensed under the MIT License. See [LICENSE][26] for details.
 [23]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-5-sequence-models/Operations+on+word+vectors+-+v2.ipynb
 [24]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-5-sequence-models/Neural+machine+translation+with+attention+-+v4.ipynb
 [25]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-5-sequence-models/Trigger+word+detection+-+v1.ipynb
-[26]:https://github.com/robstraker/deep-learning-specialization-coursera/blob/LICENSE
+[26]:https://github.com/robstraker/deep-learning-specialization-coursera/blob/master/LICENSE
 
 [27]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-1-neural-networks/course1-week1-quiz.md
 [28]:https://github.com/robstraker/deep-learning-specialization-coursera/tree/master/course-1-neural-networks/course1-week2-quiz.md
